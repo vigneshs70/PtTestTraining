@@ -1,0 +1,12 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+DemoAir_S02_SearchFlight_T01_Launch,720,3,3,6,9,14,1,62,0.000%,.17470,0.40,0.08
+DemoAir_S02_BookFlight_T02_BookTickets,720,2,2,3,4,8,1,22,0.000%,.17470,0.40,0.08
+DemoAir_S01_SearchFlight_T03_Login,80,36,34,53,61,84,15,88,0.000%,.20513,1.31,0.36
+DemoAir_S02_BookFlight_T04_BookFlightTicket,720,2,2,3,4,8,1,296,0.000%,.17471,0.64,0.09
+DemoAir_S02_BookFlight_T05_SearchFlights,720,14,17,19,22,33,3,42,0.000%,.17471,0.30,0.13
+DemoAir_S02_BookFlight_T06_SelectFlight,720,4,3,5,7,16,2,480,0.000%,.17471,0.72,0.11
+DemoAir_S02_BookFlight_T07_EnterDetails,720,30,34,39,45,53,8,172,0.000%,.17445,0.90,0.24
+DemoAir_S02_BookFlight_T08_BookPayment,720,19,19,23,28,36,5,738,0.000%,.17445,0.74,0.19
+DemoAir_S02_BookFlight_T07_Logout,720,1842,8,12,16,130,0,220020,0.000%,.17591,0.59,0.23
+Debug Sampler,640,0,0,1,1,1,0,209,0.000%,.17520,0.08,0.00
+TOTAL,6480,213,4,25,35,46,0,220020,0.000%,1.56318,4.85,1.18

@@ -1,0 +1,6 @@
+Username,Password,Reason
+ptuser@gmail.com,test@123,Product not working
+ptuser1@gmail.com,test@123,defect product
+ptuser2@gmail.com,test@123,product mismatch
+ptuser3@gmail.com,test@123,not working
+ptuser4@gmail.com,test@123,color mismatch

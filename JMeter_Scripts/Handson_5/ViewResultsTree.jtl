@@ -1,0 +1,60 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+0,0,content-signature-2.cdn.mozilla.net:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2490,0,0,0,null,0,0,0
+0,0,content-signature-2.cdn.mozilla.net:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2490,0,0,0,null,0,0,0
+0,0,incoming.telemetry.mozilla.org:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2490,0,0,0,null,0,0,0
+0,0,incoming.telemetry.mozilla.org:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2490,0,0,0,null,0,0,0
+1721318315413,260,/opencart/upload/index.php-7,200,OK,,text,true,,33791,447,0,0,http://localhost/opencart/upload/index.php?route=common%2Fhome,254,0,7
+0,0,incoming.telemetry.mozilla.org:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2674,0,0,0,null,0,0,0
+1721318315928,3,/opencart/upload/catalog/view/stylesheet/bootstrap.css-9,304,Not Modified,,,true,,238,527,0,0,http://localhost/opencart/upload/catalog/view/stylesheet/bootstrap.css,0,0,1
+1721318315929,11,/opencart/upload/catalog/view/javascript/jquery/jquery-3.7.1.min.js-8,304,Not Modified,,,true,,238,525,0,0,http://localhost/opencart/upload/catalog/view/javascript/jquery/jquery-3.7.1.min.js,0,0,9
+1721318316026,13,/opencart/upload/catalog/view/stylesheet/fonts/fontawesome/css/all.min.css-10,200,OK,,text,true,,102493,459,0,0,http://localhost/opencart/upload/catalog/view/stylesheet/fonts/fontawesome/css/all.min.css,7,0,4
+1721318316332,3,/opencart/upload/catalog/view/stylesheet/stylesheet.css-11,304,Not Modified,,,true,,237,527,0,0,http://localhost/opencart/upload/catalog/view/stylesheet/stylesheet.css,0,0,2
+1721318316346,3,/opencart/upload/catalog/view/javascript/jquery/datetimepicker/moment.min.js-12,304,Not Modified,,,true,,237,533,0,0,http://localhost/opencart/upload/catalog/view/javascript/jquery/datetimepicker/moment.min.js,0,0,2
+1721318316355,2,/opencart/upload/catalog/view/javascript/jquery/datetimepicker/moment-with-locales.min.js-13,304,Not Modified,,,true,,238,547,0,0,http://localhost/opencart/upload/catalog/view/javascript/jquery/datetimepicker/moment-with-locales.min.js,0,0,1
+1721318316366,5,/opencart/upload/catalog/view/javascript/jquery/datetimepicker/daterangepicker.css-14,200,OK,,text,true,,7932,467,0,0,http://localhost/opencart/upload/catalog/view/javascript/jquery/datetimepicker/daterangepicker.css,5,0,1
+1721318316370,7,/opencart/upload/catalog/view/javascript/common.js-15,304,Not Modified,,,true,,237,507,0,0,http://localhost/opencart/upload/catalog/view/javascript/common.js,0,0,1
+1721318316381,5,/opencart/upload/catalog/view/javascript/jquery/datetimepicker/daterangepicker.js-16,304,Not Modified,,,true,,238,539,0,0,http://localhost/opencart/upload/catalog/view/javascript/jquery/datetimepicker/daterangepicker.js,0,0,2
+1721318316391,3,/opencart/upload/image/catalog/opencart-logo.png-17,200,OK,,bin,true,,5530,487,0,0,http://localhost/opencart/upload/image/catalog/opencart-logo.png,3,0,1
+1721318316804,11,/opencart/upload/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg-20,200,OK,,bin,true,,138626,512,0,0,http://localhost/opencart/upload/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg,10,0,2
+1721318316801,23,/opencart/upload/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg-18,200,OK,,bin,true,,35141,509,0,0,http://localhost/opencart/upload/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg,22,0,19
+1721318316806,19,/opencart/upload/image/cache/catalog/demo/macbook_1-200x200.jpg-19,200,OK,,bin,true,,5666,502,0,0,http://localhost/opencart/upload/image/cache/catalog/demo/macbook_1-200x200.jpg,17,0,2
+1721318317158,21,/opencart/upload/image/cache/catalog/demo/iphone_1-200x200.jpg-21,200,OK,,bin,true,,8842,501,0,0,http://localhost/opencart/upload/image/cache/catalog/demo/iphone_1-200x200.jpg,21,0,1
+1721318317170,21,/opencart/upload/image/cache/catalog/demo/apple_cinema_30-200x200.jpg-22,200,OK,,bin,true,,7455,508,0,0,http://localhost/opencart/upload/image/cache/catalog/demo/apple_cinema_30-200x200.jpg,20,0,1
+1721318317172,32,/opencart/upload/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg-23,200,OK,,bin,true,,9789,507,0,0,http://localhost/opencart/upload/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg,32,0,1
+1721318317175,38,/opencart/upload/image/cache/catalog/demo/manufacturer/dell-130x100.png-25,200,OK,,bin,true,,4968,510,0,0,http://localhost/opencart/upload/image/cache/catalog/demo/manufacturer/dell-130x100.png,38,0,1
+1721318317173,41,/opencart/upload/image/cache/catalog/demo/manufacturer/harley-130x100.png-24,200,OK,,bin,true,,13545,512,0,0,http://localhost/opencart/upload/image/cache/catalog/demo/manufacturer/harley-130x100.png,40,0,0
+1721318317224,14,/opencart/upload/image/cache/catalog/demo/manufacturer/disney-130x100.png-26,200,OK,,bin,true,,4274,512,0,0,http://localhost/opencart/upload/image/cache/catalog/demo/manufacturer/disney-130x100.png,14,0,2
+1721318317248,4,/opencart/upload/image/cache/catalog/demo/manufacturer/cocacola-130x100.png-27,200,OK,,bin,true,,10946,514,0,0,http://localhost/opencart/upload/image/cache/catalog/demo/manufacturer/cocacola-130x100.png,4,0,1
+1721318317279,5,/opencart/upload/image/cache/catalog/demo/manufacturer/burgerking-130x100.png-28,200,OK,,bin,true,,16030,516,0,0,http://localhost/opencart/upload/image/cache/catalog/demo/manufacturer/burgerking-130x100.png,4,0,3
+1721318317282,3,/opencart/upload/image/cache/catalog/demo/manufacturer/canon-130x100.png-29,200,OK,,bin,true,,4114,511,0,0,http://localhost/opencart/upload/image/cache/catalog/demo/manufacturer/canon-130x100.png,3,0,1
+1721318317295,3,/opencart/upload/image/cache/catalog/demo/manufacturer/nfl-130x100.png-30,200,OK,,bin,true,,9747,509,0,0,http://localhost/opencart/upload/image/cache/catalog/demo/manufacturer/nfl-130x100.png,3,0,2
+1721318317304,3,/opencart/upload/image/cache/catalog/demo/manufacturer/redbull-130x100.png-31,200,OK,,bin,true,,6394,513,0,0,http://localhost/opencart/upload/image/cache/catalog/demo/manufacturer/redbull-130x100.png,3,0,1
+1721318317315,2,/opencart/upload/image/cache/catalog/demo/manufacturer/sony-130x100.png-32,200,OK,,bin,true,,3064,510,0,0,http://localhost/opencart/upload/image/cache/catalog/demo/manufacturer/sony-130x100.png,2,0,1
+1721318317328,3,/opencart/upload/image/cache/catalog/demo/manufacturer/starbucks-130x100.png-33,200,OK,,bin,true,,16391,515,0,0,http://localhost/opencart/upload/image/cache/catalog/demo/manufacturer/starbucks-130x100.png,3,0,1
+1721318317341,4,/opencart/upload/image/cache/catalog/demo/manufacturer/nintendo-130x100.png-34,200,OK,,bin,true,,4713,514,0,0,http://localhost/opencart/upload/image/cache/catalog/demo/manufacturer/nintendo-130x100.png,3,0,2
+1721318317349,6,/opencart/upload/catalog/view/javascript/bootstrap/js/bootstrap.bundle.min.js-35,304,Not Modified,,,true,,238,520,0,0,http://localhost/opencart/upload/catalog/view/javascript/bootstrap/js/bootstrap.bundle.min.js,0,0,2
+0,0,incoming.telemetry.mozilla.org:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1363,0,0,0,null,0,0,0
+1721318317597,4,/opencart/upload/catalog/view/stylesheet/fonts/fontawesome/webfonts/fa-solid-900.woff2-37,200,OK,,text,true,,150298,529,0,0,http://localhost/opencart/upload/catalog/view/stylesheet/fonts/fontawesome/webfonts/fa-solid-900.woff2,4,0,2
+0,0,incoming.telemetry.mozilla.org:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2674,0,0,0,null,0,0,0
+0,0,safebrowsing.googleapis.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,2674,0,0,0,null,0,0,0
+0,0,optimizationguide-pa.googleapis.com:443,,"Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1372,0,0,0,null,0,0,0
+1721318348810,196,/opencart/upload/index.php-46,200,OK,,text,true,,23930,572,0,0,http://localhost/opencart/upload/index.php?route=account%2Flogin&language=en-gb,193,0,3
+1721318385188,176,/opencart/upload/index.php?route=account/login.login&language=en-gb&login_token=4057ea1c372dafc194aa1504cd-85,200,OK,,text,true,,891,710,0,0,http://localhost/opencart/upload/index.php?route=account/login.login&language=en-gb&login_token=4057ea1c372dafc194aa1504cd,176,0,3
+1721318385423,216,/opencart/upload/index.php-86,200,OK,,text,true,,26262,633,0,0,http://localhost/opencart/upload/index.php?route=account%2Faccount&language=en-gb&customer_token=2491f92759a2f2f2c09ddbab8e,213,0,2
+1721318400646,185,/opencart/upload/index.php-87,200,OK,,text,true,,26162,675,0,0,http://localhost/opencart/upload/index.php?route=account%2Forder&language=en-gb&customer_token=2491f92759a2f2f2c09ddbab8e,178,0,1
+1721318412182,404,/opencart/upload/index.php-89,200,OK,,text,true,,29759,689,0,0,http://localhost/opencart/upload/index.php?route=account%2Forder.info&language=en-gb&customer_token=2491f92759a2f2f2c09ddbab8e&order_id=1,398,0,1
+1721318425898,203,/opencart/upload/index.php-90,200,OK,,text,true,,31211,678,0,0,http://localhost/opencart/upload/index.php?route=account%2Freturns.add&language=en-gb&order_id=1&product_id=41,198,0,2
+1721318426234,2,/opencart/upload/catalog/view/stylesheet/fonts/fontawesome/webfonts/fa-regular-400.woff2-91,304,Not Modified,,,true,,237,618,0,0,http://localhost/opencart/upload/catalog/view/stylesheet/fonts/fontawesome/webfonts/fa-regular-400.woff2,0,0,1
+1721318495907,117,/opencart/upload/index.php?route=account/returns.save&language=en-gb&return_token=f2a674f6a5c4e98b299c73c480-92,200,OK,,text,true,,857,913,0,0,http://localhost/opencart/upload/index.php?route=account/returns.save&language=en-gb&return_token=f2a674f6a5c4e98b299c73c480,116,0,3
+1721318496048,205,/opencart/upload/index.php-93,200,OK,,text,true,,23949,630,0,0,http://localhost/opencart/upload/index.php?route=account%2Freturns.success&language=en-gb,204,0,1
+1721318511500,58,/opencart/upload/index.php-94,302,Found,,text,true,,453,600,0,0,http://localhost/opencart/upload/index.php?route=account%2Flogout&language=en-gb,58,0,1
+1721318511572,249,/opencart/upload/index.php-95,200,OK,,text,true,,22418,600,0,0,http://localhost/opencart/upload/index.php?route=account%2Flogout&language=en-gb,247,0,3

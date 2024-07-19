@@ -1,0 +1,6 @@
+P_NoOf_Passengers,P_PassengerClass
+2,Business
+2,Economy
+2,Business
+2,Economy
+2,Business
